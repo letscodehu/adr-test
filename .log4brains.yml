@@ -1,0 +1,5 @@
+project:
+  name: ADR demo
+  tz: Europe/Budapest
+  adrFolder: ./docs/adr
+  packages: []
